@@ -21,8 +21,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>High-Level Steps</h2>
 
 - Initiate a network ping to virtual machine
-- Step 2
-- Step 3
+- Observe network traffic
+- Use wireshark to filter and capture icmp traffic
 - Step 4
 
 <h2>Actions and Observations</h2>
