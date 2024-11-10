@@ -23,7 +23,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Initiate a network ping to virtual machine
 - Observe network traffic
 - Use wireshark to filter and capture icmp traffic
-- Step 4
+- Use wireshark to filter and capture ssh traffic
 
 <h2>Actions and Observations</h2>
 
