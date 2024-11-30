@@ -28,7 +28,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src=https://i.imgur.com/W8CsdeO.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/0u1mux2.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <h2>Initiating a network ping to virtual machine</h2>
