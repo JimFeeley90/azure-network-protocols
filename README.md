@@ -44,7 +44,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <br />
 
 <p>
-<img src=https://i.imgur.com/uxDr6qK.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/XG4Eq6f.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <h2>Use wireshark to filter and capture ssh traffic</h2>
